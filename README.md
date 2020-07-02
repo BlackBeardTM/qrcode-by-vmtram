@@ -3,6 +3,11 @@ generates a qrcode that can be formated and use a logo.
 
 Please take note that this is not my own original code, this was created by https://github.com/vmtram however the code was never added to a repository.
 
+## Python Libraries required
+```cmd
+pip install qrcode[pil]
+```
+
 ## parameters:
 
 ### fill_color
