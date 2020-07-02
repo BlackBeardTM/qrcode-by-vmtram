@@ -38,10 +38,10 @@ The 'error_correction' parameter for the qr code references to the below:
 
 There are the following four levels. The values in parentheses indicate error correction ability (error correction rate for all codewords).
 
-'qrcode.constants.ERROR_CORRECT_L' (Approx 7%)
-'qrcode.constants.ERROR_CORRECT_M' (Approx 15%, default)
-'qrcode.constants.ERROR_CORRECT_Q' (Approx 25%)
-'qrcode.constants.ERROR_CORRECT_H' (Approx 30%)
+* 'qrcode.constants.ERROR_CORRECT_L' (Approx 7%)
+* 'qrcode.constants.ERROR_CORRECT_M' (Approx 15%, default)
+* 'qrcode.constants.ERROR_CORRECT_Q' (Approx 25%)
+* 'qrcode.constants.ERROR_CORRECT_H' (Approx 30%)
 
 For more information about the QR code error correction feature, refer to the official page of Denso Wave below.
 
